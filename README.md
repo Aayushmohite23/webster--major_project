@@ -2,7 +2,7 @@
 
 
 
-![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
+
 
 
 
